@@ -22,7 +22,7 @@ I chose to use TinkerCad since it is the electronics software I have the most ex
 
 Electronics sim video: https://youtu.be/1RLjV2Wvgb4 
 
-<img width="1920" height="814" alt="Part2Circuit" src="https://github.com/user-attachments/assets/45951d0d-3322-443e-a494-2f675aea025d" />
+<img width="1467" height="771" alt="image" src="https://github.com/user-attachments/assets/8a8651eb-8fd0-49ae-a20d-589a0a122f51" />
 
 ### CAD Prototype
 
