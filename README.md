@@ -9,14 +9,15 @@ For part 1, I created a 3D model that matches the isometric drawing included in 
 
 ## Part 2:
 
-For part 2, my student number is an even number. Therefore, I created a controller for Excitebike. The controller is meant to look like a motorcycle handlebar, keeping the theming consisitent with the game. The controller feautres one slide switch to allow the bike to move up and down between lanes, and A and B buttons. The A button allows the user to accelerate, and the B button allows the user to activate "turbo."
+For part 2, my student number is an even number. Therefore, I created a controller for Excitebike. The controller is meant to look like a motorcycle handlebar, keeping the theming consisitent with the game. The controller feautres one slide switch to allow the bike to move up and down between lanes, and A and B buttons. The A button allows the user to accelerate, and the B button allows the user to activate "turbo." When the buttons are pressed, LEDs will light up to show that the engine is engaged.
 
 ### Brainstorming
 
-The following image is the initial concept that I had for the controller. 
+The following image is the initial concept that I had for the controller. Again, I made the controller shaped like a motorcycle handlebar to convey the games theaming. Fortunately, the handlebar is an eargonomic shape, allowing the user to use their thumbs to press the buttons and switch easily.
 <img width="1920" height="1080" alt="BrainStorm" src="https://github.com/user-attachments/assets/cf1d2baf-14e2-43af-a036-fdf5c3162182" />
 
 ### Electronics Prototype
 
-I chose to use TinkerCad since it is the electronics software I have the most experience with. I quickly created the diagram but I had to rotate the switch 90 degrees to acount for how bread boards distrubute current.
-<img width="1920" height="814" alt="Part2Circuit" src="https://github.com/user-attachments/assets/63d0b64f-3c2c-4043-b9f1-76cdf13e9f2a" />
+I chose to use TinkerCad since it is the electronics software I have the most experience with. I quickly created the diagram using a breadboard, LEDs, resistors, an a slide switch. However, I had to rotate the slide switch 90 degrees to acount for how bread boards distrubute current.
+<img width="1920" height="814" alt="Part2Circuit" src="https://github.com/user-attachments/assets/45951d0d-3322-443e-a494-2f675aea025d" />
+
