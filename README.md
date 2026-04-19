@@ -27,5 +27,6 @@ Electronics sim video: https://youtu.be/1RLjV2Wvgb4
 ### CAD Prototype
 
 Using Fusion360, I created a 3D prototype of the controller. The prototype did not demonstrate any electronics as that was outside of the scope for this project. Instead, I foucsed on creating the shell of the controller with cutouts for two buttons and one switch where the thumbs will rest.
-<img width="1485" height="766" alt="image" src="https://github.com/user-attachments/assets/f6eca6cb-d88d-4177-8168-06bac12cea13" />
+<img width="1528" height="851" alt="image" src="https://github.com/user-attachments/assets/ddbd6295-4df0-4b92-b145-48b0882b905b" />
+
 
