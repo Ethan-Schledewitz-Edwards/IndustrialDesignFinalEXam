@@ -41,4 +41,10 @@ Creating the BOM was simple. I based the drawing off of the exploded view, meani
 
 [Assembly BOM.pdf](https://github.com/user-attachments/files/26871821/Assembly.BOM.pdf)
 
+#### Parts Drawings
+
+##### Bottom
+The first drawing is the bottom of the controller. I added dimensions to 3 of the views of the part.
+[Bottom.pdf](https://github.com/user-attachments/files/26871964/Bottom.pdf)
+
 
