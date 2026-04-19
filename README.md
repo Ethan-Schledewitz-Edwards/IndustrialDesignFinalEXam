@@ -37,5 +37,8 @@ While attempting to render the exploded view, I lost a significant portion of ti
 Exploded View Video: https://youtu.be/UXy1zh3EG2o
 
 #### Assembly (BOM)
+Creating the BOM was simple. I based the drawing off of the exploded view, meaning all of the components were already separated, creating visual separation between them. Then, I added a part info table which auto populated with the details about my controller.
+
+[Assembly BOM.pdf](https://github.com/user-attachments/files/26871821/Assembly.BOM.pdf)
 
 
