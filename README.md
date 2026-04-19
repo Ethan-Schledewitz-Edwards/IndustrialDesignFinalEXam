@@ -19,5 +19,8 @@ The following image is the initial concept that I had for the controller. Again,
 ### Electronics Prototype
 
 I chose to use TinkerCad since it is the electronics software I have the most experience with. I quickly created the diagram using a breadboard, LEDs, resistors, an a slide switch. However, I had to rotate the slide switch 90 degrees to acount for how bread boards distrubute current.
+
+Electronics sim video: https://youtu.be/1RLjV2Wvgb4 
+
 <img width="1920" height="814" alt="Part2Circuit" src="https://github.com/user-attachments/assets/45951d0d-3322-443e-a494-2f675aea025d" />
 
